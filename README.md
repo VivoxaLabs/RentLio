@@ -45,6 +45,9 @@ Install MySQL
 ## Contributing
 
 * **Chamod Shehanka** - *Developer* - [Shehanka](https://github.com/Shehanka)
+* **Hirantha Shanuka** - *Developer*
+* **Chathuri Hulangamuwa** - *Developer*
+
 
 See also the list of [contributors](https://github.com/Shehanka/RentLio/graphs/contributors) who participated in this project.
 
